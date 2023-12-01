@@ -1,0 +1,22 @@
+.recipe {
+  font-family: Arial;
+  font-size: 1.2;
+
+  }
+
+.narration {
+  font-style: italic;
+  color: #808080;
+  }
+
+hr {
+  border: solid 5px palevioletred;
+}
+
+img {
+  border: solid 5px;
+  color: palevioletred;
+}
+
+
+
